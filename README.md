@@ -1,4 +1,4 @@
-🏦🎲    =============================================== BANCO DE DADOS ===============================================    🏦🎲
+🏦🎲    ============ BANCO DE DADOS ============  🏦🎲
 MagicYone - Banco de Dados para Gerenciamento de Biblioteca 
 Visão Geral
 MagicYone é um banco de dados criado para o projeto do módulo 3 da Resilia Educação, Códigos do Amanhã - EBANX. Esse banco de dados foi projetado para o gerenciamento de uma biblioteca, possibilitando o registro de informações sobre editoras, autores, livros, usuários e empréstimos.
